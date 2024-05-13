@@ -200,7 +200,7 @@ parameters with their default values and a description.
 
 | variable name | default | description
 |----|----|----
-| `EXISTDB_USER` | `admin` | the user used to connect to the database and to execute queries with
+| `EXISTDB_USER` | `guest` | the user used to connect to the database and to execute queries with
 | `EXISTDB_PASS` | _empty_ | the password to authenticate the user against the database
 | `EXISTDB_SERVER` | `https://localhost:8443` | the URL of the database instance to connect to (only http and https protocols are allowed)
 
